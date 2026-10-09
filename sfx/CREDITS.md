@@ -1,6 +1,6 @@
 # Sound credits
 
-Every sound in How I Met Your Trivia is a real recording, used under the license listed. CC BY items are credited here as their licenses require. Some clips are trimmed at playback.
+Every sound in How I Met Your Trivia is a real recording, used under the license listed. CC BY items are credited here as their licenses require. Some clips are trimmed at playback; voice-awesome.wav is the "Awesome!" cut from the original .ogg.
 
 | file | what it is | title | author | license | source page | duration | suggested window (start, length) |
 |---|---|---|---|---|---|---|---|
@@ -21,4 +21,4 @@ Every sound in How I Met Your Trivia is a real recording, used under the license
 | ring.mp3 | 1950s-60s Bell System rotary office phone with a mechanical bell ringer | Ringtone: 1960s office phone | knufds | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | https://freesound.org/people/knufds/sounds/345805/ | 4.5s | full |
 | voice-cheers.mp3 | 3 men saying "Cheers!" with a glass clink | Cheers!.wav | dazza007 | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | https://freesound.org/people/dazza007/sounds/433721/ | 1.4s | full |
 | voice-challenge.mp3 | a man saying "challenge accepted" ("deep" voice-over style; it may be pitch-processed, so check by ear) | Challenge Accepeted | farsightvideomonkey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | https://freesound.org/people/farsightvideomonkey/sounds/237917/ | 10.2s | unknown; the clip is long for two words, so trim to the spoken part by ear |
-| voice-awesome.ogg | VOA Learning English actors: "Surprise! - A party! Awesome!" | Surprise! - A party! Awesome!.ogg | VOA Learning English | [PD-USGov-VOA](https://commons.wikimedia.org/wiki/Template:PD-USGov-VOA) | https://commons.wikimedia.org/wiki/File:Surprise!_-_A_party!_Awesome!.ogg | ~4.4s | about 3.2s, 1.2s (the final "Awesome!"; estimated, check by ear) |
+| voice-awesome.wav | VOA Learning English actors: "Surprise! - A party! Awesome!" | Surprise! - A party! Awesome!.ogg | VOA Learning English | [PD-USGov-VOA](https://commons.wikimedia.org/wiki/Template:PD-USGov-VOA) | https://commons.wikimedia.org/wiki/File:Surprise!_-_A_party!_Awesome!.ogg | ~4.4s | about 3.2s, 1.2s (the final "Awesome!"; estimated, check by ear) |
